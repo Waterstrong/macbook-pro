@@ -1,4 +1,4 @@
-## MacBook Productivity
+## MacBook Professional & Productivity
 
 * [x] [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/) + [Oh My ZSH - Your terminal never felt this good before](https://ohmyz.sh/)
 * [x] [Alfred 3 for Mac + Powerpack enabled](https://www.alfredapp.com/)
@@ -8,6 +8,7 @@
 * [x] [Snap - Ridiculously easy shortcut management for Mac](https://itunes.apple.com/cn/app/snap/id418073146?l=en&mt=12)
 * [x] [Command-Tab Plus - Keyboard-centric applications and windows switcher for macOS](http://commandtab.noteifyapp.com/)
 * [x] Turn off Desktop switch animation: `System Preferences` -> `Accessibility` -> Check `Reduce motion`
+* [x] Confirm changes explicitly: `System Preferences` -> `General` -> `Ask to keep changes when closing documents`
 * [x] [Karabiner - A powerful and stable keyboard customizer for macOS](https://pqrs.org/osx/karabiner/)
 * [x] Change <kbd>caps lock</kbd> to <kbd>control</kbd> and <kbd>esc</kbd>. It depends on your own preferences.
 * [x] [OctoMouse - Mouse, Trackpad, Keyboard Usage Counter](https://konsomejona.github.io/OctoMouse/)
@@ -29,3 +30,4 @@
 * [x] [Sublime Text 3 - A sophisticated text editor for code, markup and prose](https://www.sublimetext.com/) + [Typora - A Truly Minimal 
 Markdown Editor](https://typora.io/)
 * [x] [Package Control Syncing - To sync installed sublime packages](https://packagecontrol.io/docs/syncing)
+
