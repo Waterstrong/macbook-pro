@@ -1,4 +1,4 @@
-## MacBook Professional & Productivity
+## MacBook Productivity
 
 * [x] [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/) + [Oh My ZSH - Your terminal never felt this good before](https://ohmyz.sh/)
 * [x] [Alfred 3 for Mac + Powerpack enabled](https://www.alfredapp.com/)
